@@ -1,8 +1,9 @@
-# Housing Price AnalysisI am really interested in real estate market and always interested what causing the housing price. I did analysis using the dataset(AmesHouring.csv) I found from Kaggle. And I found the answers to the following questions:
-How the factors correlated with each other?
-What are the factors which affects the housing price mostly?
-Is the result be intuitively verified?
+# Housing Price Analysis
 
+I am really interested in real estate market and always interested what causing the housing price. I did analysis using the dataset(AmesHouring.csv) I found from Kaggle. And I found the answers to the following questions:
+1. How the factors correlated with each other?
+2. What are the factors which affects the housing price mostly?
+3. Is the result be intuitively verified?
 
 ## Installations
 NumPy
